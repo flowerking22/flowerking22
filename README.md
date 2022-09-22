@@ -13,7 +13,7 @@
                             <a href="mailto:rpoovarasan479@gmail.com" className="btn btn-danger rounded avator ms-2">
                             <i class="fa-solid fa-envelope">gmail</i>
                         </a> </li>
-                        <li>  <a href="https://github.com/flowerking22?tab=repositories" className="btn btn btn-dark ms-2" target="blank">
+                        <li>  <a href="https://github.com/flowerking22" className="btn btn btn-dark ms-2" target="blank">
                             <i >github</i>
                         </a> </li>
                     
