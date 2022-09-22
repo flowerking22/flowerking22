@@ -1,3 +1,27 @@
+<div align="center"> <img src="https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/repo-header-image.png"> </div>
+
+# Github Profile Header Generator
+
+## What is it?
+
+A simple but nice header image generator for your Github profile Readme. [Website Link](https://leviarista.github.io/github-profile-header-generator/).
+
+## How to use it?
+1. Create a nice github header image.  
+2. Create your GitHub profile README following [this guide](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
+3. Upload your header to your profile repo.
+4. Add this line to your README:  
+    ```` Markdown
+    ![Header](./[Your header image])
+    ````
+
+## Examples
+
+![Example 1](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-1.png)
+![Example 2](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-2.png)
+![Example 3](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-3.png)
+![Example 4](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-4.png)
+![Example 5](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-5.png)
 
 
 
@@ -27,19 +51,6 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Best-README-Template</h3>
-
-
 
 
 
@@ -138,3 +149,8 @@ Use this space to list resources you find helpful and would like to give credit 
 
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
+
+
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+Django	Django	![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+DjangoREST	DjangoREST	![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
