@@ -1,4 +1,4 @@
-
+<h1>flowerking22</h1>
 
 ![Example 3](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-3.png)
 <!--
@@ -29,12 +29,13 @@ A simple but nice header image generator for your Github profile Readme. [Websit
 -->
 
 
-<h1>flowerking22</h1>
+
 
 <li><a href="https://facebook.com/r.king.188" className="btn btn btn-primary ms-2 rounded-avator" target="blank">
 <i>fb</i></a></li>
 <li > <a href="https://www.linkedin.com/in/flower-king-82379a222" >
-<i class="fa-brands fa-linkedin">Linkdin</i> </a> </li>
+[![LinkedIn][linkedin-shield]][linkedin-url]</a> </li>
+[![LinkedIn][linkedin-shield]][linkedin-url]
                         <li className="nav-item">
                             <a href="https://wa.me/+919150371784" className="btn btn btn-success ms-2 rounded-avator" target="blank">
                             <i class="fa-brands fa-whatsapp">whatsapp</i>
