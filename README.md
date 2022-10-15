@@ -206,3 +206,5 @@ DjangoREST	![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=f
 </p>
 
 <a href="https://flowerking22.github.io/Weatherapp_Angular/" target="_blank">Weather App Angular</a>
+<br>
+<a href="https://flowerking.pythonanywhere.com/" target="_blank">Crud_django</a>
