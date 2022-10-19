@@ -204,7 +204,8 @@ DjangoREST	![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=f
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
+Projects<br>
 <a href="https://flowerking22.github.io/Weatherapp_Angular/" target="_blank">Weather App Angular</a>
 <br>
-<a href="https://flowerking.pythonanywhere.com/" target="_blank">Crud_django</a>
+<a href="https://flowerking.pythonanywhere.com/" target="_blank">Crud_django</a><br>
+<a href="https://flowerking22.github.io/todo-app/">Todo_angular</a><br>
