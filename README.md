@@ -1,12 +1,7 @@
 <h1>flowerking22</h1>
 
-![Example 3](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-3.png)
-<!--
-# Github Profile Header Generator
 
-## What is it?
-
-A simple but nice header image generator for your Github profile Readme. [Website Link](https://leviarista.github.io/github-profile-header-generator/).
+[Website Link](https://leviarista.github.io/github-profile-header-generator/).
 
 ## How to use it?
 1. Create a nice github header image.  
@@ -17,16 +12,8 @@ A simple but nice header image generator for your Github profile Readme. [Websit
     ![Header](./[Your header image])
     ````
 
-## Examples
 
 
-<div align="center"> <img src="https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/repo-header-image.png"> </div>
-![Example 1](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-1.png)
-![Example 2](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-2.png)
-![Example 3](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-3.png)
-![Example 4](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-4.png)
-![Example 5](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-5.png)
--->
 
 
 
@@ -50,11 +37,6 @@ A simple but nice header image generator for your Github profile Readme. [Websit
                     
                     
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -62,16 +44,13 @@ A simple but nice header image generator for your Github profile Readme. [Websit
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 * [![Django][Django.com]][Django-url]
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-* [![Vue][Vue.js]][Vue-url]
+
 * [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
+
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
