@@ -17,23 +17,46 @@
   
   
  ## Programming :
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+  [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+
+<table style="border:0px;">
+  <tr>
+    <td> [Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+    </td>
+    <td>
+       [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+    </td>
+    <td>
+       [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
+    </td>
+    <td>
+       ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+    </td>
+    <td>
+      ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+    </td>
+  </tr>
+  </table>
   <!--Contact -->
   
-  
-##  Contact
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-<a href="https://facebook.com/r.king.188" className="btn btn btn-primary ms-2 rounded-avator" target="blank">
-<i>fb</i></a>
+##  Contact
+
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-007acc?style=for-the-badge&labelColor=white&logo=facebook&logoColor=blue)]
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
  <a href="https://www.linkedin.com/in/flower-king-82379a222" >
-[![LinkedIn][linkedin-shield]][linkedin-url]</a>
+<a href='https://www.linkedin.com/in/poovarasan-r-82379a222/'> Lindkein </a>
  <a href="https://wa.me/+919150371784" className="btn btn btn-success ms-2 rounded-avator" target="blank">
-                            <i class="fa-brands fa-whatsapp">whatsapp</i>
+                            <i class="fa-brands fa-whatsapp"> whatsapp </i>
                         </a>
                                                     <a href="mailto:rpoovarasan479@gmail.com" className="btn btn-danger rounded avator ms-2">
-                            <i class="fa-solid fa-envelope">gmail</i>
+                            <i class="fa-solid fa-envelope" >gmail </i>
                         </a> 
                           <a href="https://github.com/flowerking22" className="btn btn btn-dark ms-2" target="blank">
                             <i >github</i>
@@ -62,7 +85,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
     
  [![React][React.js]][React-url]
- [![Django][Django.com]][Django-url]
+
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 [![Angular][Angular.io]][Angular-url]
@@ -135,5 +158,10 @@ DjangoREST	![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=f
 </a>
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
+   [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
+  [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+  [![Facebook Badge](https://img.shields.io/badge/-Facebook-007acc?style=for-the-badge&labelColor=white&logo=facebook&logoColor=blue)](#)
+ 
+
 <br/>
