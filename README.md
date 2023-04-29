@@ -1,41 +1,43 @@
-<h1>flowerking22</h1>
+### flowerking22
+<hr style='color:white;' color='white'>
 
 
-[Website Link](https://leviarista.github.io/github-profile-header-generator/).
-
-### Projects
-1.<a href="https://flowerking22.github.io/Weatherapp_Angular/" target="_blank">Weather App Angular</a>
-<br>
-2.<a href="https://flowerking.pythonanywhere.com/" target="_blank">Crud_django</a><br>
-3.<a href="https://flowerking22.github.io/todo-app/">Todo_angular</a><br>
-<!-- CONTACT -->
-## Contact
-
+## Projects
+<ol>
+  <li>
+    <a href="https://flowerking22.github.io/Weatherapp_Angular/" target="_blank">Weather App Angular</a>
+  </li>
+  <li>
+    <a href="https://flowerking.pythonanywhere.com/" target="_blank">Crud_django</a>
+  </li>
+<li>
+  <a href="https://flowerking22.github.io/todo-app/">Todo_angular</a><br>
+  </li>
+  </ol>
+  
+  
+ ## Programming :
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+  <!--Contact -->
+  
+  
+##  Contact
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<li><a href="https://facebook.com/r.king.188" className="btn btn btn-primary ms-2 rounded-avator" target="blank">
-<i>fb</i></a></li>
-<li > <a href="https://www.linkedin.com/in/flower-king-82379a222" >
-[![LinkedIn][linkedin-shield]][linkedin-url]</a> </li>
-[![LinkedIn][linkedin-shield]][linkedin-url]
-                        <li className="nav-item">
-                            <a href="https://wa.me/+919150371784" className="btn btn btn-success ms-2 rounded-avator" target="blank">
+<a href="https://facebook.com/r.king.188" className="btn btn btn-primary ms-2 rounded-avator" target="blank">
+<i>fb</i></a>
+ <a href="https://www.linkedin.com/in/flower-king-82379a222" >
+[![LinkedIn][linkedin-shield]][linkedin-url]</a>
+ <a href="https://wa.me/+919150371784" className="btn btn btn-success ms-2 rounded-avator" target="blank">
                             <i class="fa-brands fa-whatsapp">whatsapp</i>
-                        </a>   </li>
-                        <li className="nav-item">
-                            <a href="mailto:rpoovarasan479@gmail.com" className="btn btn-danger rounded avator ms-2">
+                        </a>
+                                                    <a href="mailto:rpoovarasan479@gmail.com" className="btn btn-danger rounded avator ms-2">
                             <i class="fa-solid fa-envelope">gmail</i>
-                        </a> </li>
-                        <li>  <a href="https://github.com/flowerking22" className="btn btn btn-dark ms-2" target="blank">
+                        </a> 
+                          <a href="https://github.com/flowerking22" className="btn btn btn-dark ms-2" target="blank">
                             <i >github</i>
-                        </a> </li>
-                    
-                    
-
+                        </a> 
 
 
 ## 🚀 Languages and Tools:
