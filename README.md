@@ -37,6 +37,7 @@
 <a href="mailto:rpoovarasan479@gmail.com" style="margin:30px;"><img src="https://camo.githubusercontent.com/9a80e93dca22e8bc345bef4e92799c1b6fb4481f996b1d69f3f9b0590f92c057/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d2532333138373746322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d46616365626f6f6b266c6f676f436f6c6f723d7768697465"/></a> 
 <a href="https://wa.me/+919150371784" style="margin:30px;"><img src="https://camo.githubusercontent.com/d9d4db0a25f6d41d6ef282c6adc2f9bd5b31201ef00ba580f5a945da4063a937/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a> 
 
+[![](https://komarev.com/ghpvc/?username=flowerking22&color=blue&label=GitHub+Views)](https://github.com/flowerking22)
 
 ## 🚀 Languages and Tools:
 
@@ -105,3 +106,9 @@ DjangoREST	![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=f
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 </p>
 <br/>
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=flowerking22&theme=algolia&show_icons=true)](https://github.com/flowerking22)<br>
+[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=flowerking22&theme=algolia&show_icons=true)](https://github.com/flowerking22)
