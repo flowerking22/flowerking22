@@ -27,23 +27,10 @@
   
 
 ##  Contact
-<a href="mailto:rpoovarasan479@gmail.com" style="margin:!30px;"><img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"/></a>
-<a href="mailto:rpoovarasan479@gmail.com" style="margin:30px;"><img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"/></a>
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
- <a href="https://www.linkedin.com/in/flower-king-82379a222" >
-<a href='https://www.linkedin.com/in/poovarasan-r-82379a222/'> Lindkein </a>
- <a href="https://wa.me/+919150371784" className="btn btn btn-success ms-2 rounded-avator" target="blank">
-                            <i class="fa-brands fa-whatsapp"> whatsapp </i>
-                        </a>
-                                                    <a href="mailto:rpoovarasan479@gmail.com" className="btn btn-danger rounded avator ms-2">
-                            <i class="fa-solid fa-envelope" >gmail </i>
-                        </a> 
-                          <a href="https://github.com/flowerking22" className="btn btn btn-dark ms-2" target="blank">
-                            <i >github</i>
-                        </a> 
+<a href="mailto:rpoovarasan479@gmail.com" style="margin:!30px;"><img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"/></a> 
+<a href="https://www.linkedin.com/in/flower-king-82379a222" style="margin:30px;"><img src="https://camo.githubusercontent.com/7e1a1a039c75a7c4d2a91d7f97bf0a1c2adcf7cb49b7dbbfc02963a4f9fdaca4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"/></a>
+<a href="mailto:rpoovarasan479@gmail.com" style="margin:30px;"><img src="https://camo.githubusercontent.com/9a80e93dca22e8bc345bef4e92799c1b6fb4481f996b1d69f3f9b0590f92c057/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d2532333138373746322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d46616365626f6f6b266c6f676f436f6c6f723d7768697465"/></a> 
+<a href="https://wa.me/+919150371784" style="margin:30px;"><img src="https://camo.githubusercontent.com/d9d4db0a25f6d41d6ef282c6adc2f9bd5b31201ef00ba580f5a945da4063a937/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a> 
 
 
 ## 🚀 Languages and Tools:
