@@ -27,10 +27,12 @@
   
 
 ##  Contact
-
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-007acc?style=for-the-badge&labelColor=white&logo=facebook&logoColor=blue)]
-
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<a href="mailto:rpoovarasan479@gmail.com" style="margin:!30px;"><img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"/></a>
+<a href="mailto:rpoovarasan479@gmail.com" style="margin:30px;"><img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"/></a>
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
  <a href="https://www.linkedin.com/in/flower-king-82379a222" >
 <a href='https://www.linkedin.com/in/poovarasan-r-82379a222/'> Lindkein </a>
  <a href="https://wa.me/+919150371784" className="btn btn btn-success ms-2 rounded-avator" target="blank">
