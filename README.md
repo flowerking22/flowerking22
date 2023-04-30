@@ -1,6 +1,5 @@
-### flowerking22
-**Software Engineer**
-<hr style='color:blue;' color='white'>
+<h1 align="center">Hi 👋, I'm 𝑷𝑶𝑶𝑽𝑨𝑹𝑨𝑺𝑨𝑵😊😊😊</h1>
+<h3 align="center">A CSE sophomore who loves exploring new feild and empowering others, 3-star coder(CodeChef(1661)) and passionate frontend developer from India.</h3>
 
 ### About Me
 
@@ -9,6 +8,13 @@ Software Engineer with **4+** years experience in web application development. S
 |<a href="mailto:rpoovarasan479@gmail.com" style="margin:!30px;"><img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"/></a>|[![Portfolio](https://img.shields.io/badge/Portfolio-%23009639.svg?style=for-the-badge&logo=Hyperledger&logoColor=white)](https://saifurrahman.my.canva.site) | [![CV](https://img.shields.io/badge/CV-%23009639.svg?style=for-the-badge&logo=DocuSign&logoColor=white)](https://drive.google.com/file/d/1pnVUuyfkIgnzQi5CRWv5Jxu8iCrPmYGf/view?usp=share_link) | [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flower-king-82379a222) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saifurrahman1193/flowerking22) | [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14350717/md-saifur-rahman) |[![](https://komarev.com/ghpvc/?username=flowerking22&color=blue&label=GitHub+Views)](https://github.com/flowerking22)|
 |-|-|-|-|-| -|-|
 | [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/saifur_rahman111) | [![Beecrowd](https://img.shields.io/badge/Beecrowd-%23009639.svg?style=for-the-badge&logo=Bugcrowd&logoColor=white)](https://www.beecrowd.com.br/judge/en/profile/18847) | [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/saifurrahman1193) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/playlist?list=PLwJWgDKTF5-xdQttKl7cRx8Yhukv7Ilmg)|<a href="mailto:rpoovarasan479@gmail.com" style="margin:30px;"><img src="https://camo.githubusercontent.com/9a80e93dca22e8bc345bef4e92799c1b6fb4481f996b1d69f3f9b0590f92c057/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d2532333138373746322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d46616365626f6f6b266c6f676f436f6c6f723d7768697465"/></a> |<a href="https://wa.me/+919150371784" style="margin:30px;"><img src="https://camo.githubusercontent.com/d9d4db0a25f6d41d6ef282c6adc2f9bd5b31201ef00ba580f5a945da4063a937/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>||
+
+<h3 align="left">Connect with me: 😊😊</h3>
+<p align="left">
+<a href="https://twitter.com/SanyaRamchanda5" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/64/000000/twitter.png" alt="sanu-coder" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sanya-ramchandani-159a2319a/" target="blank"><img align="center" src="https://img.icons8.com/metro/26/000000/linkedin.png" alt="sanya123_" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sanu_30122000/" target="blank"><img align="center" src="https://img.icons8.com/metro/26/000000/instagram-new.png" alt="sanu_30122000" height="30" width="40" /></a>
+</p>
 
 ## Projects
 <ol>
@@ -97,16 +103,16 @@ Software Engineer with **4+** years experience in web application development. S
 <br/>
 
 ### Progressive Stats Report:
-<div align="left" width="300px">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=flowerking22&theme=algolia&show_icons=true)](https://github.com/flowerking22)<br>
-  <br>
-[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=flowerking22&theme=algolia&show_icons=true)](https://github.com/flowerking22)
-</div>
 
+<!-- | <h3><center><b>Leetcode Stats</b></center></h3> [![Leetcode Stats](https://leetcard.jacoblin.cool/Flower_king?ext=activity&theme=nord)](https://leetcode.com/Flower_king)| <h3><center><b>StackOverflow Stats</b></center></h3> [![Mohammad Saifur Rahman's StackOverfl
+|ow](https://github-readme-stackoverflow.vercel.app/?userID=14350717&theme=dark)](https://stackoverflow.com/users/14350717/md-saifur-rahman) | -->
  
+<!-- |  [![Top Langs](https://github-readme-stats.vercel.app/api?username=flowerking22&hide=css,html&theme=algolia&show_icons=true)](https://github.com/flowerking22) | [![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=flowerking22&hide=css,html,scss&theme=algolia&show_icons=true)](https://github.com/flowerking22) | 
+| -| -| -->
 
- | <h3><center><b>Leetcode Stats</b></center></h3> [![Leetcode Stats](https://leetcard.jacoblin.cool/saifurrahman1193?ext=activity&theme=nord)](https://leetcode.com/saifurrahman1193)| <h3><center><b>StackOverflow Stats</b></center></h3> [![Mohammad Saifur Rahman's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14350717&theme=dark)](https://stackoverflow.com/users/14350717/md-saifur-rahman) |
-| ----------------- | ------------------ |
-|  <h3><center><b>Github Stats</b></center></h3>  |
-|  [![Top Langs](https://github-readme-stats.vercel.app/api?username=flowerking22&hide=css,html&theme=algolia&show_icons=true)](https://github.com/flowerking22) | [![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=flowerking22&hide=css,html,scss&theme=algolia&show_icons=true)](https://github.com/flowerking22) |
+<div align="center" width="300px">
+<p><a href="https://github.com/flowerking22"><img align="center" src="https://github-readme-stats.vercel.app/api?username=flowerking22&hide=css,html&theme=algolia&show_icons=true" width="500px"  height="300px" alt="sanu-coder" /></a></p
+  <p><a href="https://github.com/flowerking22"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=flowerking22&hide=css,html,scss&theme=algolia&show_icons=true" width="500px"  height="300px" alt="sanu-coder" /></a></p>
+<p><a href="https://github.com/flowerking22"><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=flowerking22&theme=algolia&show_icons=true" alt="sanu-coder" /></a></p>
+  </div>
