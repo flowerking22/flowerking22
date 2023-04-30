@@ -28,10 +28,10 @@ Software Engineer with **4+** years experience in web application development. S
  
 <h3 align="left">Places where I code: 😊😊</h3>
 <p align="left">
-  &nbsp;&nbsp;&nbsp;<a href="mailto:rpoovarasan479@gmail.com" style="margin:!30px;"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/saifurrahman1193"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/flower-king-82379a222" style="margin:!30px;"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/saifur_rahman111"/></a> 
+  &nbsp;&nbsp;&nbsp;<a href="https://leetcode.com/Flower_king/" style="margin:!30px;"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/saifurrahman1193"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/rpoovarasan479" style="margin:!30px;"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a> 
 &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/saifurrahman1193/flowerking22" style="margin:30px;"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/flowerking22" style="margin:30px;"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/flower-king-82379a222" style="margin:30px;"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a> &nbsp;&nbsp;&nbsp;
 </p>
 <!-- <a>
@@ -53,7 +53,7 @@ Software Engineer with **4+** years experience in web application development. S
   </ol>
   
  
- ## Programming :
+ ## <> Programming </>:
  &nbsp;&nbsp;&nbsp;&nbsp;
 |<a href="mailto:rpoovarasan479@gmail.com" style="margin:!30px;">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) </a>&nbsp;&nbsp;&nbsp;&nbsp;|[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) |[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)|![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)|
 |-|-|-|-|-| - |
