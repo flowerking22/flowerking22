@@ -56,16 +56,13 @@ Software Engineer with **4+** years experience in web application development. S
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
 
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+<!--     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express"/> </a> -->
  [![React][React.js]][React-url]
 [![Angular][Angular.io]][Angular-url]
 [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 [![JQuery][JQuery.com]][JQuery-url]
-  <a> 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links 
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[conributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors-->
+  <a>
+    
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/othneildrew/Best-README-Template/stargaze
 [product-screenshot]: images/screenshot.png
@@ -80,16 +77,10 @@ Software Engineer with **4+** years experience in web application development. S
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
-[![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)
-[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
-[![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
-[![TypeScript](https://badgen.net/badge/icon/typescript?icon=typescript&label)](https://typescriptlang.org)
-[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
+[JQuery-url]: https://jquery.com
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-Django	![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-DjangoREST	![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -105,18 +96,17 @@ DjangoREST	![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=f
 </p>
 <br/>
 
-
-
+### Progressive Stats Report:
+<div align="left" width="300px">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=flowerking22&theme=algolia&show_icons=true)](https://github.com/flowerking22)<br>
+  <br>
 [![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=flowerking22&theme=algolia&show_icons=true)](https://github.com/flowerking22)
-
+</div>
 
  
- 
-### Progressive Stats Report:
 
-<!-- | <h3><center><b>Leetcode Stats</b></center></h3> [![Leetcode Stats](https://leetcard.jacoblin.cool/saifurrahman1193?ext=activity&theme=nord)](https://leetcode.com/saifurrahman1193)| <h3><center><b>StackOverflow Stats</b></center></h3> [![Mohammad Saifur Rahman's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14350717&theme=dark)](https://stackoverflow.com/users/14350717/md-saifur-rahman) | -->
+ | <h3><center><b>Leetcode Stats</b></center></h3> [![Leetcode Stats](https://leetcard.jacoblin.cool/saifurrahman1193?ext=activity&theme=nord)](https://leetcode.com/saifurrahman1193)| <h3><center><b>StackOverflow Stats</b></center></h3> [![Mohammad Saifur Rahman's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14350717&theme=dark)](https://stackoverflow.com/users/14350717/md-saifur-rahman) |
 | ----------------- | ------------------ |
 |  <h3><center><b>Github Stats</b></center></h3>  |
 |  [![Top Langs](https://github-readme-stats.vercel.app/api?username=flowerking22&hide=css,html&theme=algolia&show_icons=true)](https://github.com/flowerking22) | [![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=flowerking22&hide=css,html,scss&theme=algolia&show_icons=true)](https://github.com/flowerking22) |
