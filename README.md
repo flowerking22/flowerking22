@@ -1,18 +1,39 @@
-<h1 align="center">Hi 👋, I'm 𝑷𝑶𝑶𝑽𝑨𝑹𝑨𝑺𝑨𝑵😊😊😊</h1>
+<h1 align="center">Hi 👋, I'm 𝑷𝑶𝑶𝑽𝑨𝑹𝑨𝑺𝑨𝑵😊😊😊 <span style="align:right;"></span></h1>
 <h3 align="center">A CSE sophomore who loves exploring new feild and empowering others, 3-star coder(CodeChef(1661)) and passionate frontend developer from India.</h3>
 
 ### About Me
 
 Software Engineer with **4+** years experience in web application development. Skilled in Laravel, REST API, Node.js, React, Vue, Oracle Database 11g, MySQL. With such skill sets, goal oriented hard working and by solving problems, I have proved myself as a key team player.
-
-&nbsp;&nbsp;&nbsp;<a href="mailto:rpoovarasan479@gmail.com" style="margin:!30px;"><img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"/></a> &nbsp;&nbsp;&nbsp;[![Portfolio](https://img.shields.io/badge/Portfolio-%23009639.svg?style=for-the-badge&logo=Hyperledger&logoColor=white)](https://saifurrahman.my.canva.site)  &nbsp;&nbsp;&nbsp;[![CV](https://img.shields.io/badge/CV-%23009639.svg?style=for-the-badge&logo=DocuSign&logoColor=white)](https://drive.google.com/file/d/1pnVUuyfkIgnzQi5CRWv5Jxu8iCrPmYGf/view?usp=share_link)  &nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flower-king-82379a222)  &nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saifurrahman1193/flowerking22) &nbsp;&nbsp;&nbsp;[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14350717/md-saifur-rahman) &nbsp;&nbsp;&nbsp;[![](https://komarev.com/ghpvc/?username=flowerking22&color=blue&label=GitHub+Views)](https://github.com/flowerking22)
+<br>
+<br>
+&nbsp;&nbsp;&nbsp;
+<a href="https://drive.google.com/file/d/1pnVUuyfkIgnzQi5CRWv5Jxu8iCrPmYGf/view?usp=share_link" ><img src="https://img.shields.io/badge/Portfolio-%23009639.svg?style=for-the-badge&logo=Hyperledger&logoColor=white"/></a>
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+<a href="https://drive.google.com/file/d/1pnVUuyfkIgnzQi5CRWv5Jxu8iCrPmYGf/view?usp=share_link" ><img src="https://img.shields.io/badge/CV-%23009639.svg?style=for-the-badge&logo=DocuSign&logoColor=white&color=orange"/></a>
+&nbsp;&nbsp;&nbsp;
+<a float="right" href="https://github.com/flowerking22"><img src="https://komarev.com/ghpvc/?username=flowerking22&color=blue&label=GitHub+Views"/></a>
 <!-- |-|-|-|-|-| -|-| -->
-&nbsp;&nbsp;&nbsp; [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/saifur_rahman111) &nbsp;&nbsp;&nbsp; [![Beecrowd](https://img.shields.io/badge/Beecrowd-%23009639.svg?style=for-the-badge&logo=Bugcrowd&logoColor=white)](https://www.beecrowd.com.br/judge/en/profile/18847) &nbsp;&nbsp;&nbsp; [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/saifurrahman1193) &nbsp;&nbsp;&nbsp; [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/playlist?list=PLwJWgDKTF5-xdQttKl7cRx8Yhukv7Ilmg) &nbsp;&nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flower-king-82379a222) &nbsp;&nbsp;&nbsp;<a href="mailto:rpoovarasan479@gmail.com" style="margin:30px;"><img src="https://camo.githubusercontent.com/9a80e93dca22e8bc345bef4e92799c1b6fb4481f996b1d69f3f9b0590f92c057/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d2532333138373746322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d46616365626f6f6b266c6f676f436f6c6f723d7768697465"/></a> &nbsp;&nbsp;&nbsp;<a href="https://wa.me/+919150371784" style="margin:30px;"><imsrc="https://camo.githubusercontent.com/d9d4db0a25f6d41d6ef282c6adc2f9bd5b31201ef00ba580f5a945da4063a937/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>
 
 <h3 align="left">Connect with me: 😊😊</h3>
-<p align="left">
-  &nbsp;&nbsp;&nbsp;<a href=")](https://www.linkedin.com/in/flower-king-82379a222" style="margin:30px;"><img src="https://camo.githubusercontent.com/9a80e93dca22e8bc345bef4e92799c1b6fb4481f996b1d69f3f9b0590f92c057/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d2532333138373746322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d46616365626f6f6b266c6f676f436f6c6f723d7768697465"/></a> &nbsp;&nbsp;&nbsp;<a href="https://wa.me/+919150371784" style="margin:30px;"><img src="https://camo.githubusercontent.com/d9d4db0a25f6d41d6ef282c6adc2f9bd5b31201ef00ba580f5a945da4063a937/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>
+<p align="left" margin="50px">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/flower-king-82379a222" style="margin:!30px;"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+&nbsp;&nbsp;&nbsp;<a href="mailto:rpoovarasan479@gmail.com" style="margin:!30px;"><img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://wa.me/+919150371784" style="margin:30px;"><img src="https://camo.githubusercontent.com/d9d4db0a25f6d41d6ef282c6adc2f9bd5b31201ef00ba580f5a945da4063a937/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>&nbsp;&nbsp;&nbsp;
+  <a href=")](https://www.linkedin.com/in/flower-king-82379a222" style="margin:30px;"><img src="https://camo.githubusercontent.com/9a80e93dca22e8bc345bef4e92799c1b6fb4481f996b1d69f3f9b0590f92c057/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d2532333138373746322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d46616365626f6f6b266c6f676f436f6c6f723d7768697465"/></a> &nbsp;&nbsp;&nbsp;
  </p>
+ 
+ 
+ 
+<h3 align="left">Places where I code: 😊😊</h3>
+<p align="left">
+  &nbsp;&nbsp;&nbsp;<a href="mailto:rpoovarasan479@gmail.com" style="margin:!30px;"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/saifurrahman1193"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/flower-king-82379a222" style="margin:!30px;"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/saifur_rahman111"/></a> 
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/saifurrahman1193/flowerking22" style="margin:30px;"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/flower-king-82379a222" style="margin:30px;"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a> &nbsp;&nbsp;&nbsp;
+</p>
 <!-- <a>
 <img src="https://camo.githubusercontent.com/9a80e93dca22e8bc345bef4e92799c1b6fb4481f996b1d69f3f9b0590f92c057/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d2532333138373746322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d46616365626f6f6b266c6f676f436f6c6f723d7768697465"/></a><a href="https://wa.me/+919150371784" style="margin:30px;"><img src="https://camo.githubusercontent.com/d9d4db0a25f6d41d6ef282c6adc2f9bd5b31201ef00ba580f5a945da4063a937/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a> -->
 
@@ -34,8 +55,8 @@ Software Engineer with **4+** years experience in web application development. S
  
  ## Programming :
  &nbsp;&nbsp;&nbsp;&nbsp;
-|<a href="mailto:rpoovarasan479@gmail.com" style="margin:!30px;">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) </a>&nbsp;&nbsp;&nbsp;&nbsp;|[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) |[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)|
-|-|-|-|-|-|
+|<a href="mailto:rpoovarasan479@gmail.com" style="margin:!30px;">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) </a>&nbsp;&nbsp;&nbsp;&nbsp;|[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) |[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)|![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)|
+|-|-|-|-|-| - |
 ## Frameworks
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)&nbsp;&nbsp;&nbsp;&nbsp;
