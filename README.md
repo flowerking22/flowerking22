@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm 𝑷𝑶𝑶𝑽𝑨𝑹𝑨𝑺𝑨𝑵😊😊😊 <span style="align:right;"></span></h1>
-<h3 align="center">A CSE sophomore who loves exploring new feild and empowering others, 3-star coder(CodeChef(1661)) and passionate frontend developer from India.</h3>
+<h3 align="center">Software Engineer </h3>
 
 ### About Me
 
-Software Engineer with **4+** years experience in web application development. Skilled in Laravel, REST API, Node.js, React, Vue, Oracle Database 11g, MySQL. With such skill sets, goal oriented hard working and by solving problems, I have proved myself as a key team player.
+BE CSE Student with **1+** years experience in web application development. Skilled in Angular , Django , Rest Api ,Mean Stack , Mern Stack and Database with Sql With such skill sets, goal oriented hard working and by solving problems.
 <br>
 <br>
 &nbsp;&nbsp;&nbsp;
@@ -15,7 +15,7 @@ Software Engineer with **4+** years experience in web application development. S
 <a float="right" href="https://github.com/flowerking22"><img src="https://komarev.com/ghpvc/?username=flowerking22&color=blue&label=GitHub+Views"/></a>
 <!-- |-|-|-|-|-| -|-| -->
 
-<h3 align="left">Connect with me: 😊😊</h3>
+<h3 align="left">Connect with me 😊😊</h3>
 <p align="left" margin="50px">
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/flower-king-82379a222" style="margin:!30px;"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
@@ -26,7 +26,7 @@ Software Engineer with **4+** years experience in web application development. S
  
  
  
-<h3 align="left">Places where I code: 😊😊</h3>
+<h3 align="left">Places where I code 😊😊</h3>
 <p align="left">
   &nbsp;&nbsp;&nbsp;<a href="https://leetcode.com/Flower_king/" style="margin:!30px;"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/saifurrahman1193"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/rpoovarasan479" style="margin:!30px;"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a> 
@@ -53,8 +53,7 @@ Software Engineer with **4+** years experience in web application development. S
   </ol>
   
  
- ## <> Programming </>:
- &nbsp;&nbsp;&nbsp;&nbsp;
+ ## Programming </>
 |<a href="mailto:rpoovarasan479@gmail.com" style="margin:!30px;">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) </a>&nbsp;&nbsp;&nbsp;&nbsp;|[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) |[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)|![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)|
 |-|-|-|-|-| - |
 ## Frameworks
@@ -66,7 +65,7 @@ Software Engineer with **4+** years experience in web application development. S
   
 
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -131,7 +130,7 @@ Software Engineer with **4+** years experience in web application development. S
  
 <!-- |  [![Top Langs](https://github-readme-stats.vercel.app/api?username=flowerking22&hide=css,html&theme=algolia&show_icons=true)](https://github.com/flowerking22) | [![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=flowerking22&hide=css,html,scss&theme=algolia&show_icons=true)](https://github.com/flowerking22) | 
 | -| -| -->
-<h3>Progressive Stats Report:</h3>
+<h3>Progressive Stats Report</h3>
 
 <div align="" width="300px" margin-left="50px">
 <a href="https://github.com/flowerking22"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=flowerking22&hide=css,html,scss&theme=algolia&show_icons=true" width="500px"  height="300px" alt="sanu-coder" /></a><br>
