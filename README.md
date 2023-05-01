@@ -59,7 +59,7 @@ BE CSE Student with **1+** years experience in web application development. Skil
  ## Programming </>
 |<a href="mailto:rpoovarasan479@gmail.com" style="margin:!30px;">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) </a>&nbsp;&nbsp;&nbsp;&nbsp;|[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) |[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)|![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)| ![PLSQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)|
 |-|-|-|-|-| - | -|
-## Frameworks [↑] ('#hi--im-𝑷𝑶𝑶𝑽𝑨𝑹𝑨𝑺𝑨𝑵-')
+## Frameworks [↑](#hi--im-𝑷𝑶𝑶𝑽𝑨𝑹𝑨𝑺𝑨𝑵-)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Django](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
 ![DjangoREST](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)&nbsp;&nbsp;&nbsp;&nbsp;
