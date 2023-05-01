@@ -1,7 +1,7 @@
 # <h1 align="center">Hi 👋, I'm 𝑷𝑶𝑶𝑽𝑨𝑹𝑨𝑺𝑨𝑵😊😊😊 <span style="align:right;"></span></h1>
 <h3 align="center">Software Engineer </h3>
 
-### About Me
+## About Me [↑](#hi--im-𝑷𝑶𝑶𝑽𝑨𝑹𝑨𝑺𝑨𝑵-) 
 
 BE CSE Student with **1+** years experience in web application development. Skilled in Angular , Django , Rest Api ,Mean Stack , Mern Stack and Database with Sql With such skill sets, goal oriented hard working and by solving problems.
 <br>
@@ -15,7 +15,7 @@ BE CSE Student with **1+** years experience in web application development. Skil
 <a float="right" href="https://github.com/flowerking22"><img src="https://komarev.com/ghpvc/?username=flowerking22&color=blue&label=GitHub+Views"/></a>
 <!-- |-|-|-|-|-| -|-| -->
 
-<h3 align="left">Connect with me 😊😊</h3>
+## Connect with me 😊😊 [↑](#hi--im-𝑷𝑶𝑶𝑽𝑨𝑹𝑨𝑺𝑨𝑵-)
 <p align="left" margin="50px">
   
 
@@ -29,7 +29,7 @@ BE CSE Student with **1+** years experience in web application development. Skil
  
  
  
-<h3 align="left">Places where I code 😊😊</h3>
+## Places where I code 😊😊 [↑](#hi--im-𝑷𝑶𝑶𝑽𝑨𝑹𝑨𝑺𝑨𝑵-)
 <p align="left">
   &nbsp;&nbsp;&nbsp;<a href="https://leetcode.com/Flower_king/" style="margin:!30px;"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/saifurrahman1193"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/rpoovarasan479" style="margin:!30px;"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a> 
@@ -42,7 +42,7 @@ BE CSE Student with **1+** years experience in web application development. Skil
 
 
 
-## Projects
+## Projects [↑](#hi--im-𝑷𝑶𝑶𝑽𝑨𝑹𝑨𝑺𝑨𝑵-)
 <ol>
   <li>
     <a href="https://flowerking22.github.io/Weatherapp_Angular/" target="_blank">Weather App Angular</a>
@@ -56,9 +56,16 @@ BE CSE Student with **1+** years experience in web application development. Skil
   </ol>
   
  
- ## Programming </>
-|<a href="mailto:rpoovarasan479@gmail.com" style="margin:!30px;">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) </a>&nbsp;&nbsp;&nbsp;&nbsp;|[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) |[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)|![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)| ![PLSQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)|
-|-|-|-|-|-| - | -|
+ ## Programming </> [↑](#hi--im-𝑷𝑶𝑶𝑽𝑨𝑹𝑨𝑺𝑨𝑵-)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#) &nbsp;&nbsp;&nbsp;&nbsp;
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) &nbsp;&nbsp;&nbsp;&nbsp;
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) &nbsp;&nbsp;&nbsp;&nbsp;
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](#)&nbsp;&nbsp;&nbsp;&nbsp;
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](#)&nbsp;&nbsp;&nbsp;&nbsp;
+[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](#)&nbsp;&nbsp;&nbsp;&nbsp;
+[![PLSQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)](#)&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- |<a href="mailto:rpoovarasan479@gmail.com" style="margin:!30px;">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) </a>&nbsp;&nbsp;&nbsp;&nbsp;|[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) |[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)|![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)| ![PLSQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)|
+|-|-|-|-|-| - | -| -->
 ## Frameworks [↑](#hi--im-𝑷𝑶𝑶𝑽𝑨𝑹𝑨𝑺𝑨𝑵-)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Django](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
@@ -72,7 +79,7 @@ BE CSE Student with **1+** years experience in web application development. Skil
   
 
 
-## 🚀 Stacks and Tools
+## 🚀 Stacks and Tools [↑](#hi--im-𝑷𝑶𝑶𝑽𝑨𝑹𝑨𝑺𝑨𝑵-)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![NODE JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -105,7 +112,7 @@ BE CSE Student with **1+** years experience in web application development. Skil
  
 <!-- |  [![Top Langs](https://github-readme-stats.vercel.app/api?username=flowerking22&hide=css,html&theme=algolia&show_icons=true)](https://github.com/flowerking22) | [![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=flowerking22&hide=css,html,scss&theme=algolia&show_icons=true)](https://github.com/flowerking22) | 
 | -| -| -->
-<h3>Progressive Stats Report</h3>
+## Progressive Stats Report [↑](#hi--im-𝑷𝑶𝑶𝑽𝑨𝑹𝑨𝑺𝑨𝑵-)
 
 <div align="" width="300px" margin-left="50px">
 <a href="https://github.com/flowerking22"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=flowerking22&hide=css,html,scss&theme=algolia&show_icons=true" width="500px"  height="300px" alt="sanu-coder" /></a><br>
