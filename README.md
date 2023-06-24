@@ -3,7 +3,7 @@
 
 ## About Me [↑](#hi--im-𝑷𝑶𝑶𝑽𝑨𝑹𝑨𝑺𝑨𝑵-) 
 
-BE CSE Student with **1+** years experience in web application development. Skilled in Angular , Django , Rest Api ,Mean Stack , Mern Stack and Database with Sql With such skill sets, goal oriented hard working and by solving problems.
+I am BE CSE graduate with **1+** years experience in web application development. Skilled in Angular , Django , Rest Api ,Mean Stack , Mern Stack and Database with Sql With such skill sets, goal oriented hard working and by solving problems.
 <br>
 <br>
 &nbsp;&nbsp;&nbsp;
