@@ -10,7 +10,7 @@ I am BE CSE graduate with **1+** years experience in web application development
 <a href="https://drive.google.com/file/d/1pnVUuyfkIgnzQi5CRWv5Jxu8iCrPmYGf/view?usp=share_link" ><img src="https://img.shields.io/badge/Portfolio-%23009639.svg?style=for-the-badge&logo=Hyperledger&logoColor=white"/></a>
 &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
-<a href="https://drive.google.com/file/d/1pnVUuyfkIgnzQi5CRWv5Jxu8iCrPmYGf/view?usp=share_link" ><img src="https://img.shields.io/badge/CV-%23009639.svg?style=for-the-badge&logo=DocuSign&logoColor=white&color=orange"/></a>
+<a href="https://drive.google.com/file/d/19W6QbplmnIUjWjEQnsz8G0zL_972yMF2/view?usp=drivesdk"> <img src="https://img.shields.io/badge/CV-%23009639.svg?style=for-the-badge&logo=DocuSign&logoColor=white&color=orange"/></a>
 &nbsp;&nbsp;&nbsp;
 <a float="right" href="https://github.com/flowerking22"><img src="https://komarev.com/ghpvc/?username=flowerking22&color=blue&label=GitHub+Views"/></a>
 <!-- |-|-|-|-|-| -|-| -->
